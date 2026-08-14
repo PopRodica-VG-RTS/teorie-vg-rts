@@ -1,2 +1,2 @@
 # Folder-RTS
-Sistem pentru gestionarea si structurarea fisierelor pentru Rodica.
+Structura pentru Rodica.
