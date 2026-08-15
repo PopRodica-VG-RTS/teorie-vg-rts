@@ -2,7 +2,7 @@
 
 
 
-Original file line number	Diff line number	Diff line change
+
 @@ -9,4 +9,20 @@ The RTS (Reality, Time, Self) series extends the VG framework by introducing a s
 ```
 RTS – Reality, Time, Self
