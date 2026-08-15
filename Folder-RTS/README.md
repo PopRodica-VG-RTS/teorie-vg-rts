@@ -3,7 +3,7 @@
 
 
 
-@@ -9,4 +9,20 @@ The RTS (Reality, Time, Self) series extends the VG framework by introducing a s
+ The RTS (Reality, Time, Self) series extends the VG framework 
 ```
 RTS – Reality, Time, Self
 A Journey Through the Layers of Consciousness and Reality
