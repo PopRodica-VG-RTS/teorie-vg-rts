@@ -1,11 +1,7 @@
 # teorie-vg-rts
 
-Serie Descriere Folder GitHub
-Seria 1 Arhitectura Rețelei Primare geo1 – geo12
-Seria 2 Ciclul Cosmic și Dansul Rețelei der1 – der13
-Seria 3 Spin, Torsiune și Tranziții de Fază bud1 – bud8
-Seria 4 Coloana vertebrală matematică a teoriei tei1 – tei9
-Seria RTS Fizica stratificată și Conștiința rts1 – rts29
+Seria 1 : Arhitectura Retelei Primare; Seria 2 : Ciclul Cosmic; Seria 3 : Spin si Torsiune; Seria 4 : Coloana Matematica; Seria RTS 
+: Constiinta si Fizica .
 
 
 ## The Essence of the Theory:
