@@ -8,7 +8,6 @@ Seria 4 Coloana vertebrală matematică a teoriei tei1 – tei9
 Seria RTS Fizica stratificată și Conștiința rts1 – rts29
 
 
-
 ## The Essence of the Theory:
 [The Dance of the Network] 
 (THE_DANCE_OF_THE_NETWORK.md)
