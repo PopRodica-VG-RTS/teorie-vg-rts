@@ -1,4 +1,14 @@
 # teorie-vg-rts
+
+Serie Descriere Folder GitHub
+Seria 1 Arhitectura Rețelei Primare geo1 – geo12
+Seria 2 Ciclul Cosmic și Dansul Rețelei der1 – der13
+Seria 3 Spin, Torsiune și Tranziții de Fază bud1 – bud8
+Seria 4 Coloana vertebrală matematică a teoriei tei1 – tei9
+Seria RTS Fizica stratificată și Conștiința rts1 – rts29
+
+
+
 ## The Essence of the Theory:
 [The Dance of the Network] 
 (THE_DANCE_OF_THE_NETWORK.md)
