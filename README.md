@@ -1,6 +1,10 @@
 # teorie-vg-rts
 
-Seria 1: Arhitectura Retelei Primare; Seria 2: Ciclul Cosmic; Seria 3: Spin si Torsiune; Seria 4: Coloana Matematica; Seria RTS: Constiinta si Fizica.
+Seria 1: Arhitectura Retelei Primare; 
+Seria 2: Ciclul Cosmic; 
+Seria 3: Spin si Torsiune; 
+Seria 4: Coloana Matematica; 
+Seria RTS: Constiinta si Fizica.
 
 
 ## The Essence of the Theory:
