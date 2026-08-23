@@ -1,4 +1,9 @@
 # teorie-vg-rts
+## The Essence of the Theory:
+[The Dance of the Network] 
+(THE_DANCE_OF_THE_NETWORK.md)
+
+
 markdown# Vibrational Geometrodynamics (VG) & Stratified Temporal Network (RTS)
 
 *Author:* Rodica Pop  
