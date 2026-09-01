@@ -6,6 +6,9 @@ This series introduces the mathematics of spin dynamics and the fundamental role
 
 ## 📄 Contents:
 - bud1.pdf – The Birth of a Universe from a Black Hole
+
+This section is independently confirmed by the work of Gaztanaga et al. (Physical Review D, 2026), which describes the birth of a universe from a black hole.
+ 
 - bud2.pdf – The Mathematics of the Phase Transition
 - bud3.pdf – Network Buds – The Fractal Birth of Universes
 - bud4.pdf – Birth from Within – The Structure of a Network Bud
