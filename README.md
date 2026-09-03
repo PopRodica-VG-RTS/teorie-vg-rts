@@ -3,7 +3,8 @@
 - Seria 1: Arhitectura Retelei Primare; 
 - Seria 2: Ciclul Cosmic; 
 - Seria 3: Spin si Torsiune; 
-- Seria 4: Coloana Matematica; 
+- Seria 4: Coloana Matematica;
+- Seria 5: Constiinta, Viata si Tehnologia Nodala 
 - Seria RTS: Constiinta si Fizica.
 
 
