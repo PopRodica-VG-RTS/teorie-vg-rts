@@ -51,8 +51,8 @@ The framework includes mathematical derivations yielding *falsifiable prediction
 ## 📂 Repository Structure
 
 This repository contains the following documentation and assets:
-1. *VG Series 1–4* – Foundational articles on the architecture of the Primary Network.
-2. *RTS Series 1–28* – Articles on reality stratification, coherence, and nodal re-anchoring.
+1. *VG Series 1–5* – Foundational articles on the architecture of the Primary Network.
+2. *RTS Series 1–30* – Articles on reality stratification, coherence, and nodal re-anchoring.
 3. *Mathematical Derivations* – Core equations, tensors, and formal proofs.
 4. *Drafts and Supplementary Materials* – Working papers, diagrams, and research notes.
 
@@ -75,12 +75,16 @@ This repository contains the following documentation and assets:
 
 ## 🔭 Planned Articles (In Preparation)
 
-The VG/RTS framework is expanding with a series of new papers currently in development:
+The VG/RTS framework is expanding with a series of new papers currently in development
+Series 5 explores Consciousness, Life and Nodal Technology, building on foundations already validated:
 
-* *VG Series 4, Episode 4* – Evolution of Spin in the Primary Network: The dynamic foundation for cavity frequency and the inter-strat tensor.
-* *VG Series 4, Episode 5* – Deriving the Hubble Constant from the Relaxation of Nodal Cavities: A direct link between spin dynamics and cosmic expansion.
-* *VG Series 4, Episode 6* – The Grand Equation and the Nodal Cavity: Unifying $H_{\text{total}}$ with intrinsic spin dynamics.
-* *VG Series 4, Episode 7* – Topological Portals and Nodal Points: A mathematical model for thin-membrane regions (e.g., Carpathian Curvature, Bermuda Triangle anomalies).
+* *Astral Architecture* – the astral world as a living nodal environment , described through decoupled configurations ,hierarchy of coherence , and resonance-based communication.
+* *The Intrinsic Mass Postulate* – mass as a stable property of nodal patterns, mediated by pair fluctuations.
+* *Nodal Embroidery* – the correlation between physical DNA and energetic DNA , understood as applied nodal engineering.
+* *The Torus (the "doughnut" topology)* – the remodelling of the Relational Crystal into toroidal topology and its connection with confirmation of the cosmic Bounce.
+* *Nodal Echo* - archived memory as an active property of the Network.
+
+* *Other directions in progress* : nodal technology in the Shambala case , the hidden pulse of the Universe, and consciousness as a modulator of the coupling fields.
 
 ---
 
