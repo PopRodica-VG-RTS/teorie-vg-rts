@@ -1,4 +1,5 @@
 # teorie-vg-rts
+## VIBRATIONAL GEOMETRODYNAMICS / STRATIFIED TEMPORAL NETWORK 
 
 - Series 1: The Architecture of the Primary Network; 
 - Series 2: The Cosmic Cycle; 
