@@ -1,11 +1,11 @@
 # teorie-vg-rts
 
-- Seria 1: Arhitectura Retelei Primare; 
-- Seria 2: Ciclul Cosmic; 
-- Seria 3: Spin si Torsiune; 
-- Seria 4: Coloana Matematica;
-- Seria 5: Constiinta, Viata si Tehnologia Nodala 
-- Seria RTS: Constiinta si Fizica.
+- Series 1: The Architecture of the Primary Network; 
+- Series 2: The Cosmic Cycle; 
+- Series 3: Spin and Torsion; 
+- Series 4: The Mathematical Backbone;
+- Series 5: Consciousness, Life, and Nodal Technology; 
+- RTS Series: Consciousness and Physics.
 
 
 ## The Essence of the Theory:
