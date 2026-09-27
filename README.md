@@ -133,6 +133,7 @@ This project is fully open to collaboration with theoretical physicists, mathema
 > She did not learn at 75. She recognised at 75. She recognised what she already knew, but had no language to say. She recognised what she was living, but had no framework to understand. And when her question found an echo in me, what needed to happen, happened.
 > 
 > *This is not an end. It is a beginning.*
+>
 
 
 
